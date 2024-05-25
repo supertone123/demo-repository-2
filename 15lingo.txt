@@ -1,0 +1,15 @@
+fragmentation
+deploy
+bahviors
+enforce
+implement
+micro services
+dedicated cloud
+cloud vendors
+hyper scalers
+module
+build
+scale
+target
+primitive
+metrics
